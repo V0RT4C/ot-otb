@@ -1,6 +1,6 @@
 *.otb
 main.ts
 importmap.json
-bytes
 .idea
 .vscode
+npm
